@@ -8,3 +8,4 @@ def no_c(my_string):
         else:
             x = x + i
     return x
+    return my_list
